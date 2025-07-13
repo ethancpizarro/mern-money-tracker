@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-money-tracker/static/css/main.ef9eaea5.css",
+    "main.js": "/mern-money-tracker/static/js/main.ba486601.js",
+    "static/js/453.8bf7ab1a.chunk.js": "/mern-money-tracker/static/js/453.8bf7ab1a.chunk.js",
+    "index.html": "/mern-money-tracker/index.html",
+    "main.ef9eaea5.css.map": "/mern-money-tracker/static/css/main.ef9eaea5.css.map",
+    "main.ba486601.js.map": "/mern-money-tracker/static/js/main.ba486601.js.map",
+    "453.8bf7ab1a.chunk.js.map": "/mern-money-tracker/static/js/453.8bf7ab1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9eaea5.css",
+    "static/js/main.ba486601.js"
+  ]
+}
